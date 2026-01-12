@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "../New"
+		},
+		{
+			"path": "../Nueva pagina"
+		},
+		{
+			"path": "../Sitio Web"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Porfolio"
+	}
+}
